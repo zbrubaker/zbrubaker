@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @zbrubaker
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Swift and SwiftUI
-- 💞️ I’m looking to collaborate on iOS mobile app development
-- 📫 How to reach me mathwithzac@gmail.com
+Hello
 
 <!---
 zbrubaker/zbrubaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
